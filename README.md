@@ -2,22 +2,22 @@
 Tutorial Notebooks for ML SIG <br>
 Content: <br>
 
-1.Introduction to Python: <br>
+1. Introduction to Python: <br>
   * Matplotlib <br>
   * Dictionaries <br>
   * Pandas <br>
   * Logic, control flow and filtering <br>
   * Loop data structures <br>
-2.Python Data Science Toolbox: <br>
-User defined function <br>
-Scope <br>
-Nested function <br>
-Default and flexible arguments <br>
-Lambda function <br>
-Anonymous function <br>
-Iterators <br>
-List comprehension <br>
-3.Cleaning Data <br>
+2. Python Data Science Toolbox: <br>
+* User defined function <br>
+* Scope <br>
+* Nested function <br>
+* Default and flexible arguments <br>
+* Lambda function <br>
+* Anonymous function <br>
+* Iterators <br>
+* List comprehension <br>
+3. Cleaning Data <br>
 Diagnose data for cleaning <br>
 Explotary data analysis <br>
 Visual exploratory data analysis <br>
