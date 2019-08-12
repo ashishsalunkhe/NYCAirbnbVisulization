@@ -50,7 +50,7 @@ Content: <br>
 * Bokeh: https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-2 <br>
 7. Statistical Thinking <br>
 https://www.kaggle.com/kanncaa1/basic-statistic-tutorial-for-beginners <br>
-8. Machine Learning <br>
+8. Machine Learning 
 a. Supervised Learning <br>
 * EDA(Exploratory Data Analysis) <br>
 * K-Nearest Neighbors (KNN) <br>
