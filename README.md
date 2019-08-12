@@ -3,11 +3,11 @@ Tutorial Notebooks for ML SIG <br>
 Content: <br>
 
 1.Introduction to Python: <br>
-Matplotlib <br>
-Dictionaries <br>
-Pandas <br>
-Logic, control flow and filtering <br>
-Loop data structures <br>
+  * Matplotlib <br>
+  * Dictionaries <br>
+  * Pandas <br>
+  * Logic, control flow and filtering <br>
+  * Loop data structures <br>
 2.Python Data Science Toolbox: <br>
 User defined function <br>
 Scope <br>
